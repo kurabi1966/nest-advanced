@@ -1,1 +1,1 @@
-# nest-advanced-2023
+# Backbone of a monorepo app
